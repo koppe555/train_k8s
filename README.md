@@ -1,3 +1,4 @@
+referred to https://cybozu.github.io/introduction-to-kubernetes/
 
 立てたpodの中に入る
 ```
@@ -69,8 +70,3 @@ podのログを確認
 ```
 [~/myapp/k8s]  % kubectl logs -l component=nginx
 ```
-
-
-
-
-# train_k8s
